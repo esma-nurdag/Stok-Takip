@@ -1,0 +1,223 @@
+{
+    "urunler": [
+        {
+            "id": 1,
+            "kod": "ELK-001",
+            "ad": "Kablosuz Mouse",
+            "kategori": "Elektronik",
+            "adet": 25,
+            "kritik_stok": 5,
+            "alis_fiyati": 210,
+            "fiyat": 349.9,
+            "kdv": 20,
+            "tedarikci": "TeknoMerkez Bilişim A.Ş.",
+            "gorsel": "",
+            "aciklama": "2.4 GHz, pil dahil",
+            "guncelleme": "2026-11-08 10:00"
+        },
+        {
+            "id": 2,
+            "kod": "KRT-001",
+            "ad": "A4 Fotokopi Kağıdı",
+            "kategori": "Kırtasiye",
+            "adet": 20,
+            "kritik_stok": 10,
+            "alis_fiyati": 130,
+            "fiyat": 189.5,
+            "kdv": 10,
+            "tedarikci": "OfisKağıt Dağıtım Ltd.",
+            "gorsel": "",
+            "aciklama": "500 yaprak, 80 gr",
+            "guncelleme": "2026-11-13 16:13"
+        },
+        {
+            "id": 3,
+            "kod": "GDA-001",
+            "ad": "Filtre Kahve 500g",
+            "kategori": "Gıda",
+            "adet": 10,
+            "kritik_stok": 5,
+            "alis_fiyati": 185,
+            "fiyat": 275,
+            "kdv": 1,
+            "tedarikci": "Anadolu Kahve Kavurma",
+            "gorsel": "",
+            "aciklama": "Orta kavrulmuş, %100 Arabica",
+            "guncelleme": "2026-11-13 16:08"
+        },
+        {
+            "id": 4,
+            "kod": "TMZ-001",
+            "ad": "Bulaşık Deterjanı",
+            "kategori": "Temizlik",
+            "adet": 12,
+            "kritik_stok": 5,
+            "alis_fiyati": 55,
+            "fiyat": 89.9,
+            "kdv": 20,
+            "tedarikci": "PakHijyen Kimya",
+            "gorsel": "",
+            "aciklama": "1,5 litre limon kokulu",
+            "guncelleme": "2026-11-08 11:30"
+        },
+        {
+            "id": 5,
+            "kod": "ELK-002",
+            "ad": "USB-C Şarj Kablosu",
+            "kategori": "Elektronik",
+            "adet": 10,
+            "kritik_stok": 5,
+            "alis_fiyati": 65,
+            "fiyat": 129,
+            "kdv": 20,
+            "tedarikci": "TeknoMerkez Bilişim A.Ş.",
+            "gorsel": "",
+            "aciklama": "1 metre, 60W hızlı şarj destekli",
+            "guncelleme": "2026-11-13 16:13"
+        },
+        {
+            "id": 6,
+            "kod": "GYM-001",
+            "ad": "Pamuklu Tişört",
+            "kategori": "Giyim",
+            "adet": 18,
+            "kritik_stok": 6,
+            "alis_fiyati": 140,
+            "fiyat": 249.99,
+            "kdv": 10,
+            "tedarikci": "Ege Tekstil Toptan",
+            "gorsel": "",
+            "aciklama": "M beden, %100 pamuk beyaz",
+            "guncelleme": "2026-11-08 12:30"
+        }
+    ],
+    "kategoriler": [
+        "Elektronik",
+        "Kırtasiye",
+        "Gıda",
+        "Temizlik",
+        "Giyim"
+    ],
+    "hareketler": [
+        {
+            "id": 13,
+            "tarih": "2026-11-13 17:03:52",
+            "kullanici": "Depo Görevlisi",
+            "urun_ad": "Oturum",
+            "tur": "SISTEM",
+            "detay": "Depo Görevlisi (personel) hesabına geçiş yapıldı."
+        },
+        {
+            "id": 12,
+            "tarih": "2026-11-13 17:03:31",
+            "kullanici": "Mağaza Yöneticisi",
+            "urun_ad": "Oturum",
+            "tur": "SISTEM",
+            "detay": "Mağaza Yöneticisi (admin) hesabına geçiş yapıldı."
+        },
+        {
+            "id": 11,
+            "tarih": "2026-11-13 16:23:34",
+            "kullanici": "Mağaza Yöneticisi",
+            "urun_ad": "Ahmet Yılmaz",
+            "tur": "KULLANICI",
+            "detay": "Depo görevlisi kaydı silindi (@ahmet)."
+        },
+        {
+            "id": 10,
+            "tarih": "2026-11-13 16:23:14",
+            "kullanici": "Mağaza Yöneticisi",
+            "urun_ad": "Oturum",
+            "tur": "SISTEM",
+            "detay": "Mağaza Yöneticisi (admin) hesabına geçiş yapıldı."
+        },
+        {
+            "id": 9,
+            "tarih": "2026-11-13 16:23:00",
+            "kullanici": "Ahmet Yılmaz",
+            "urun_ad": "Oturum",
+            "tur": "SISTEM",
+            "detay": "Ahmet Yılmaz (personel) hesabına geçiş yapıldı."
+        },
+        {
+            "id": 8,
+            "tarih": "2026-11-13 16:22:46",
+            "kullanici": "Mağaza Yöneticisi",
+            "urun_ad": "Ahmet Yılmaz",
+            "tur": "KULLANICI",
+            "detay": "Yeni depo görevlisi kaydedildi (@ahmet)."
+        },
+        {
+            "id": 7,
+            "tarih": "2026-11-13 16:22:17",
+            "kullanici": "Mağaza Yöneticisi",
+            "urun_ad": "Oturum",
+            "tur": "SISTEM",
+            "detay": "Mağaza Yöneticisi (admin) hesabına geçiş yapıldı."
+        },
+        {
+            "id": 6,
+            "tarih": "2026-11-13 16:18:36",
+            "kullanici": "Depo Görevlisi",
+            "urun_ad": "Oturum",
+            "tur": "SISTEM",
+            "detay": "Depo Görevlisi (personel) hesabına geçiş yapıldı."
+        },
+        {
+            "id": 5,
+            "tarih": "2026-11-13 16:13:50",
+            "kullanici": "Mağaza Yöneticisi",
+            "urun_ad": "USB-C Şarj Kablosu",
+            "tur": "STOK_ARTIS",
+            "detay": "Stok adedi 3 → 10 olarak güncellendi (+7)."
+        },
+        {
+            "id": 4,
+            "tarih": "2026-11-13 16:13:49",
+            "kullanici": "Mağaza Yöneticisi",
+            "urun_ad": "A4 Fotokopi Kağıdı",
+            "tur": "STOK_ARTIS",
+            "detay": "Stok adedi 4 → 20 olarak güncellendi (+16)."
+        },
+        {
+            "id": 3,
+            "tarih": "2026-11-13 16:08:53",
+            "kullanici": "Mağaza Yöneticisi",
+            "urun_ad": "Filtre Kahve 500g",
+            "tur": "STOK_ARTIS",
+            "detay": "Stok adedi 0 → 10 olarak güncellendi (+10)."
+        },
+        {
+            "id": 2,
+            "tarih": "2026-11-13 15:48:55",
+            "kullanici": "Mağaza Yöneticisi",
+            "urun_ad": "Sistem",
+            "tur": "SIFIRLANDI",
+            "detay": "Tüm veriler varsayılan örnek ürünlere sıfırlandı."
+        },
+        {
+            "id": 1,
+            "tarih": "2026-11-08 10:00:00",
+            "kullanici": "Mağaza Yöneticisi",
+            "urun_ad": "Sistem Başlangıç Verileri",
+            "tur": "SISTEM",
+            "detay": "6 adet örnek ürün yerel veri tabanına yüklendi."
+        }
+    ],
+    "kullanicilar": [
+        {
+            "kullanici_adi": "admin",
+            "sifre": "1234",
+            "ad_soyad": "Mağaza Yöneticisi",
+            "rol": "admin"
+        },
+        {
+            "kullanici_adi": "personel",
+            "sifre": "1234",
+            "ad_soyad": "Depo Görevlisi",
+            "rol": "personel"
+        }
+    ],
+    "sonraki_id": 7,
+    "sonraki_hareket_id": 14
+}

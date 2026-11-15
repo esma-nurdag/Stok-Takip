@@ -1,0 +1,14 @@
+ÖDEV TESLİMİ İÇİN EKRAN GÖRÜNTÜLERİ REHBERİ (Bölüm 10.3)
+========================================================
+
+ZIP arşivini oluşturmadan önce tarayıcıda http://localhost/stok-takip/ adresini açıp
+Windows'ta "Win + Shift + S" (Ekran Alıntısı Aracı) ile şu 3 ekran görüntüsünü alıp bu klasöre kaydedin:
+
+1. 01_ana_sayfa_ve_listeleme.png
+   -> Ana sayfadaki sayaç kartları, filtre alanı ve ürün listesi tablosu görünürken çekin.
+
+2. 02_yeni_urun_ekleme.png
+   -> "Yeni Ürün" (ekle.php) sayfasında form alanları veya doğrulama hatası görünürken çekin.
+
+3. 03_filtreleme_ve_silme.png
+   -> Ana sayfada bir kategori/durum filtrelenmişken veya "Sil" onay penceresi açıkken çekin.
